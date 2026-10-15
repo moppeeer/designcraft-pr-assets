@@ -1,0 +1,12 @@
+{
+  "baseline": "a930276fd7462f3d9abd2fbb38544c94c0c911c8",
+  "method": "Matched synthetic source, ui_shot offscreen harness; no desktop automation; original geometric illustration; after is the PR branch alone.",
+  "images": {
+    "after-preview.png": "bd0b404b7e28e5ce85f90505d4aaec35b152814239e316c3a4f2e289ab79d134",
+    "after-swatches.png": "75169857af05c5ada4d9c761d74fd90bd35438ca283de8a95e26ca5ebe217599",
+    "before-preview.png": "12ca1ed863496237ea6207c9bab9e7dffe21f2fb70e95c3eda35812dd499c56f",
+    "before-swatches.png": "12ca1ed863496237ea6207c9bab9e7dffe21f2fb70e95c3eda35812dd499c56f",
+    "preview-comparison.png": "c851df2d58ea83fd0f283e9fbb8a3c3ebf096b94bc1c7c3873022eca17882c0d",
+    "swatches-comparison.png": "353596a881515034c84b575b907840edbe77b6e76727f18a6778bb24edb60acf"
+  }
+}
