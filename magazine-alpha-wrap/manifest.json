@@ -1,0 +1,17 @@
+{
+  "baseline": "a930276fd7462f3d9abd2fbb38544c94c0c911c8",
+  "prerequisites": "a2202817b2ba18330df2978ced7caa41d3ee82c4",
+  "after": "7aee261bb8d2a9b215dd7a903cc63de5ecb2e9fe",
+  "method": "ui_shot offscreen; identical synthetic image, text, geometry and 13.5pt offset; paired images scaled equally; no desktop automation",
+  "files": {
+    "after-dialog.png": "14f5b72a117ffa45290c88c6aaa858a6305b6157003c0ff2e45be4c1144d50c5",
+    "after-page.png": "6bea5601897573080ad1288b8a6989a48a98b6f530efc4135509ce649e7037ab",
+    "after-wrap.png": "5ca4e8b4bb002e44641d4388c2f617aa98d229bc24262c41909daff9a47e89ca",
+    "before-page.png": "1ab30df79ded4a8bb394f9387e33cd67acda0b90ea739fefe373dba3ec07c5ce",
+    "before-wrap.png": "a1ffb8a9f86f1bb341b50005ebe8764fe29b92cfc1f42106a5feae45e1e1763d",
+    "main-page.png": "6f09d6bbb9d8c569c953890c73be8186c125e209dcb3e0e70db21596c47bab45",
+    "main-wrap.png": "3cb26c411f1e878ee86b050c98a556e34c133b60f130203510e2707cf4f1064c",
+    "page-comparison.png": "b0ddb8843024325a18ff0e8d3f7d90d057622383765e5c69b991b052eb6a97f6",
+    "wrap-comparison.png": "b1df5370f0fecb39106fb27e0b724b15137b25932e3afbdbf522632a56666021"
+  }
+}
