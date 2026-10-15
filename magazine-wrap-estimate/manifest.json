@@ -1,0 +1,13 @@
+{
+  "before": "a2202817b2ba18330df2978ced7caa41d3ee82c4",
+  "after": "94a06ed881578d35567cc3abf97ce742515f9098",
+  "validation": "Document JSON is identical apart from creation timestamp. Same offscreen harness and synthetic inputs.",
+  "images": {
+    "after-page.png": "2ed8d25447405fcdf3d1813c07bbde22fdf3953536b0e6013a7e79572b93e3ec",
+    "after-wrap.png": "3e03d4455316b1d3f554aa46272cadf0f3154b91efb222e1c3f1247e7612d633",
+    "before-page.png": "b2a484e73465ae5df2334824929423734a410e97ce612102a795c02a96d7ec20",
+    "before-wrap.png": "19fe072994beb099e3ea168737932f03c581020eda7fef3873fc952dbc8a492e",
+    "page-comparison.png": "c85270e0bbe147cbf07f690954a4ea0f83146b6b3467c9a5a85bb00f20719fae",
+    "wrap-comparison.png": "29616cf98362cf27c528d8930a784363db9455feda0302e3b2f34c7baf5ad733"
+  }
+}
