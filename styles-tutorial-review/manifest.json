@@ -1,0 +1,110 @@
+{
+  "baseline": "a930276fd7462f3d9abd2fbb38544c94c0c911c8",
+  "after": {
+    "1065": "70df1191495108c675821e73825461abd41fd01f",
+    "1064": "dea0352299f8f721553ad41c30456900b8bcda03",
+    "1063": "4ea23d4ccd8bc3452a51e6a4598845780f2d6370",
+    "1062": "7d4ddc3679e24ef71760095c7c1ba743f77d4e50",
+    "1061": "4f3a55a190e1191f5625b302d86825bf3161ec2a",
+    "1060": "7313bdfc93241b3fc3a98b40cc2aa7c304e349c8"
+  },
+  "files": {
+    "pr-1060-after-menu.png": {
+      "bytes": 378972,
+      "sha256": "3f312f260eff65c33fa8c7c6436bb60be4c7c8ddde48aeb6625b8d3fed066466"
+    },
+    "pr-1060-after.png": {
+      "bytes": 349172,
+      "sha256": "275799c571729cdbd26ddd492af6cb69ac550245feaaf5850c70f45e597271df"
+    },
+    "pr-1060-before-menu.png": {
+      "bytes": 373025,
+      "sha256": "90716529dd7bf90fea0f5e645f5c3c46719c0a60db95706931644eff791d7cd5"
+    },
+    "pr-1060-before.png": {
+      "bytes": 348881,
+      "sha256": "711dc9af51d94967c7ea359f51bd34301cd38ca85c1357c4972b8f20734f1d02"
+    },
+    "pr-1060-comparison.png": {
+      "bytes": 87535,
+      "sha256": "ae93332d3606d802abb792c598e29a24320e78f8624c3f527f4116146c6b03d2"
+    },
+    "pr-1061-after.png": {
+      "bytes": 325590,
+      "sha256": "ad9abe52c974d19cdb851713ae426ecc759c36b2d9f47b808fc62cdbe8e4847b"
+    },
+    "pr-1061-before.png": {
+      "bytes": 325302,
+      "sha256": "a3df2054b05f3a5726d3181bf49cac908a067d064d0fe898f8e3efa26c905e44"
+    },
+    "pr-1061-comparison.png": {
+      "bytes": 50459,
+      "sha256": "3ccf4b1f5730d0c7edf4fb8e2bbb871e11b3064a8f0ef5a8c2225f77c82393b2"
+    },
+    "pr-1062-after.png": {
+      "bytes": 403148,
+      "sha256": "a4a6d4f83d4b28d3dd35c69aec02631396ff577f7a8b7411bdf27649c873b7ed"
+    },
+    "pr-1062-before.png": {
+      "bytes": 400640,
+      "sha256": "af20fe725ad41b751ddd966c3697b8bf2da2fffd84fc3baf1ed6a93101ec46fc"
+    },
+    "pr-1062-comparison.png": {
+      "bytes": 127925,
+      "sha256": "7b26b0070ed36e1362d090646be22befffe3240e70fbf0d899a984375340cd66"
+    },
+    "pr-1062-page-comparison.png": {
+      "bytes": 51399,
+      "sha256": "09396d6cfdfa6d05a5762c7ee2b0b91f8cbef27cc1ce46b70add81e5f1111329"
+    },
+    "pr-1063-after.png": {
+      "bytes": 247247,
+      "sha256": "8b236d20281ef97dd4aa5d9997505cd0ee08ddb2410ad77f02ebbaba1d0a4960"
+    },
+    "pr-1063-before.png": {
+      "bytes": 295904,
+      "sha256": "c0188783931efdd5985ba46c5fc14a2115260ce04a10387e4bcc0b64b2f163c6"
+    },
+    "pr-1063-comparison.png": {
+      "bytes": 153773,
+      "sha256": "d67059a7ed147239f31d3908d1b6b0c8b12e21c2d5fe3cd5dca98d4917ab090f"
+    },
+    "pr-1064-after-menu.png": {
+      "bytes": 375874,
+      "sha256": "2340bd79e58b5a903dcaacdf90fb10128c75090cc4dbe67f36bf9729b273d830"
+    },
+    "pr-1064-after.png": {
+      "bytes": 327457,
+      "sha256": "70fddb9fc96f46f9d6f76719e0e538034bc8d503bb370a5bfe51576902bb997c"
+    },
+    "pr-1064-before-menu.png": {
+      "bytes": 373025,
+      "sha256": "90716529dd7bf90fea0f5e645f5c3c46719c0a60db95706931644eff791d7cd5"
+    },
+    "pr-1064-before.png": {
+      "bytes": 335214,
+      "sha256": "674509b335a4d1d7d90cdfeae5f0e0591121b1003e7d28e30b7f285d79425a2c"
+    },
+    "pr-1064-comparison.png": {
+      "bytes": 53385,
+      "sha256": "8c897f165346c1c25966140e99b5871e9556453657cbdb8dcdd6aaf0b5194ec1"
+    },
+    "pr-1064-menu-comparison.png": {
+      "bytes": 82596,
+      "sha256": "7009b96772bcc5358ad99fb371c21f0d197420f4fafc4eb097023f1d7610cec2"
+    },
+    "pr-1065-after.png": {
+      "bytes": 399026,
+      "sha256": "37eda1614a845d2208c79c5fa8fa8a0e9ce8a6b296c4b22d190767ddb3d3d747"
+    },
+    "pr-1065-before.png": {
+      "bytes": 380445,
+      "sha256": "b031bfeb608688b1aa9234d2caa251464420881c512896023dca21929af9e44b"
+    },
+    "pr-1065-comparison.png": {
+      "bytes": 126930,
+      "sha256": "54b4ef5aedc09f3391941a0d579d329865b0336b2f11f8174f101b6d80d6aae5"
+    }
+  },
+  "method": "DesignCraft ui_shot offscreen harness; identical synthetic inputs; paired equal crops and scale; labels outside captured pixels"
+}
