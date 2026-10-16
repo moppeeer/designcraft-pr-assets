@@ -1,0 +1,20 @@
+{
+  "before": "c2609f921bb65825a9d41e9882a2f0b712276989",
+  "prerequisite": {
+    "pr": 1081,
+    "status": "merged into the before main baseline through #1139"
+  },
+  "after": "37e632881a71b474f201adb9c44fd43368b6d1b2",
+  "method": "Exact branch binaries, Rust offscreen ui_shot, identical synthetic document and commands including a real spectrum click. Existing shape verified unchanged; only the later shape inherits the picked stroke.",
+  "images": {
+    "after-default-changed.png": "96730dba2383d3ce19b77c5c7391fd386338876b82c1aeff2914421c12c93738",
+    "after-new-shape.png": "a4312e50131a064452902a0f09c627a0dcbd25d77c660f74c7adf2ebbb564c88",
+    "after-no-selection.png": "34b6282fbf49c82ad7c5abebf1cb68929c67dd95f911d7cc7d689ea4b96f9803",
+    "before-default-changed.png": "208eec589b8eda4e47b4fe4b79ecaf24283a43af4b34fbd0eeb9274b08e9c695",
+    "before-new-shape.png": "e667aa2756c3410420d1c7790a616f6456495a23da23592ef29653e1b8e48a25",
+    "before-no-selection.png": "6810d718f904b7d26c399f6577827f1542760088e4387a4a3483a61e98dcc8e3",
+    "new-shape-comparison.png": "54118138afce0f98c9cae4004a51b2879ddfd59e257caa36f340439159d4e632",
+    "no-selection-comparison.png": "fa0100c7249b5224dec32c2874a5337b3262c9696a4cb2da7781902ece4e282a",
+    "panel-detail-comparison.png": "13fd40a2fd0c41459304c09a326a30320ff643623ce38907fc12b680e0c34e73"
+  }
+}
