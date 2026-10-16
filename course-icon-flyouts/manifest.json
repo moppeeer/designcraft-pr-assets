@@ -1,0 +1,16 @@
+{
+  "before": "a7f3239cfb54415c218e87bf706a47c146c0f197",
+  "after": "ca8f4f9d5cfd910b1070c6906bfd4eafe8cd8351",
+  "method": "Exact branch binaries, Rust offscreen ui_shot, identical synthetic document/commands. Document JSON differs only in creation timestamp.",
+  "images": {
+    "after-closed.png": "d5456011541bd42b1d8ca9a578bb0d941d14a85a74206f3abd742d4fd91db821",
+    "after-color.png": "293134d77fce9d73d91d642f0b80e313bc664bf20c3d3672519a527a0109503e",
+    "after-links.png": "270f9f8de3d58b8f14b8c52db3a9fb7419b73a19d32538fcb13a791eed82f1ac",
+    "before-closed.png": "e318d69c4be346b33b4ba783c1d82ced31a08c67af5445d564b6fde4a8345731",
+    "before-color.png": "e318d69c4be346b33b4ba783c1d82ced31a08c67af5445d564b6fde4a8345731",
+    "before-links.png": "7f0cb951b8f76101ffb7c909cd98eeacae8ad706f6e4b1e6241ece162bf701d6",
+    "closed-comparison.png": "e73c18f1714b4b36289029a7f0ca8daf4451a835233993889c2721e979c7f253",
+    "color-comparison.png": "c9ba8fec3eca3c3596792aaa51eebb973871d3009544d89505f4449c4e888cc5",
+    "links-comparison.png": "a5c9e66e9b6bc50cabf2d91c5519397916e63ba1a88ba86f9b5ce99d5ba10a49"
+  }
+}
