@@ -1,0 +1,22 @@
+{
+  "before": "c2609f921bb65825a9d41e9882a2f0b712276989",
+  "after": "a7e1c0e974c226985b61f96f75eb486443cb635c",
+  "input_sha256": "4cb98deea29c997fc2a948a342d3d3de00976fa8903b65d9a1dce421d7571fbc",
+  "method": "Same synthetic native input and Rust offscreen UI commands on exact binaries. A child paragraph style explicitly resets eight Ruby/Kenten values and listTab to automatic. No course or Adobe assets.",
+  "document_checks": {
+    "before": "All nine explicit nullable overrides were lost",
+    "after": "Entire document JSON is identical to the input"
+  },
+  "images": {
+    "after-canvas.png": "6f41a0fbfecfc34e89c2fe8afda6dd38970b4d8a724361bdad8f1786c02f8e61",
+    "after-ruby-color.png": "8cc2203e5d0cf5abb36dacbae65281ef7e9cda0b56591cc9e444d79f5a0d2ba3",
+    "after-ruby-size.png": "ff94493f9eee6dcc0542f7ef7389f3edf82d66db6dfdb96e7e1a2783fcd85138",
+    "before-canvas.png": "56f5f001145c8d9563e8cd423795fa8ac13556c300237d449cabf50d39fec3e5",
+    "before-ruby-color.png": "b63891cef70a39d0685618e9bdab591bba9a47f12a64cec58260d06e3c8654b3",
+    "before-ruby-size.png": "75f59afbe408fb0619787665d65aeb31f352887cf26f14cc472ed0cf69010565",
+    "canvas-comparison.png": "fbf8645054d0c4db871b7f281d4378766c71541ada1c6cdab7c689d6220ebb18",
+    "ruby-color-comparison.png": "1bcfde12ea2d208bd0150823ebcc946f6be91869fbf0f5909ae4442619f2590b",
+    "ruby-size-comparison.png": "41a0173f3714c81cbcd2a89fb058a7d42f86ab31e82469c717ff3f806134707a",
+    "ruby-size-detail-comparison.png": "68248509d76f43bb8805b4dcda6b7285731fbd3696e36bb01666cd4105f14bbb"
+  }
+}
