@@ -1,0 +1,19 @@
+{
+  "before": "27a34209c2bfd42c14d4bc8ec2f19460bdb4a561",
+  "after": "9204e95d2d4963841e746b42df4c5420a7dc07f8",
+  "method": "Identical synthetic document and pointer gesture through offscreen Rust ui_shot. All queued motion and release events drained. Document JSON identical except creation timestamp.",
+  "images": {
+    "after-icons-docked.png": "6b4875e5cec59869467ee367c5cae3aa20796229d3953f23ebf0df5150220bf3",
+    "after-icons-highlight.png": "9f9d314e356f7e6160b0d93615ab1db637dc8679f24f9319277006d06dcc9373",
+    "after-icons-opened.png": "1d6b1e76e12579b4b04f0a3eda4478148f470fb6b6856b988a6b0cb67c9a5606",
+    "after-tabs-docked.png": "29468956a312b8d770110399fd00b1bdc023bfcb3085ec515c2b749029f372b9",
+    "before-icons-docked.png": "e1a35d7c6e310a6eedf478f52f21f3b7fda2e05ca07e51e68f471307ef3cccea",
+    "before-icons-highlight.png": "7feea795d35e428ea3aceea70a3638c98194ef220489acdabf7ccf5fa23a52ec",
+    "before-icons-opened.png": "e1a35d7c6e310a6eedf478f52f21f3b7fda2e05ca07e51e68f471307ef3cccea",
+    "before-tabs-docked.png": "d47477091377edde10dff5f7530e121b8a1390e57ac806873179b33ba7647180",
+    "icons-docked-comparison.png": "1a140f321716d1be2a5516bd3a81719d675963a27504365731575565e5d1b5f3",
+    "icons-highlight-comparison.png": "ab5a3f88297fcf9b835e9b8859c5b235b0d726cc4231168ab46670f1c183dd01",
+    "icons-opened-comparison.png": "ec862893685181b524af2df6250b5d643322133abed494689156ba7485a22671",
+    "tabs-docked-comparison.png": "75ec6a09e643d170100116e30dc3f226857a5c1fe61c02a26af66cc9a38554b8"
+  }
+}
