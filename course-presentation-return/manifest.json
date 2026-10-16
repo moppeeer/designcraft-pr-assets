@@ -1,0 +1,24 @@
+{
+  "before": "33d555c6ac9cd22c4f07911dab68c82157230942",
+  "after": "b9450d21b5f5af23cb5cf5ddb0b8fd0490f283c5",
+  "prerequisites": {
+    "503": "7b903cf6b16b5baf5e43699b61875961900dcc11",
+    "1043": "e001b4122101043109b1ab24811a27b7a18ec19b",
+    "1044": "75d3e528ff9d0be3226c07400d3b5c3307ae0916"
+  },
+  "method": "Exact branch binaries, Rust offscreen ui_shot, same synthetic seven-page document and real Shift+W / arrow / Escape events. Before includes all prerequisites. Native document JSON is identical apart from creation time.",
+  "images": {
+    "after-editing.png": "959a06f6c7308f61004e0c62187aa71d8590a960dacd20e9231f683fc3c53578",
+    "after-next-spread.png": "6d4901132ee9aa9093382a43f97af976614839238b93320ebf49a33556c19912",
+    "after-presentation.png": "7251633770f1a0688961304776df53268fdec7a273ecf6184288ec7059c85596",
+    "after-return-next-spread.png": "8d69f4df786bca505407c1236c086745d55ab01ce27b18b25aff6a28a819f601",
+    "after-return-same-spread.png": "959a06f6c7308f61004e0c62187aa71d8590a960dacd20e9231f683fc3c53578",
+    "before-editing.png": "959a06f6c7308f61004e0c62187aa71d8590a960dacd20e9231f683fc3c53578",
+    "before-next-spread.png": "6d4901132ee9aa9093382a43f97af976614839238b93320ebf49a33556c19912",
+    "before-presentation.png": "7251633770f1a0688961304776df53268fdec7a273ecf6184288ec7059c85596",
+    "before-return-next-spread.png": "e9d20e06315dff40e41ad5bcc420e2f7a444ed9070c74e26beb17414a8bc33dd",
+    "before-return-same-spread.png": "3b941d768120a476ba2ae9710e3fb4559f81192eca7d55a069299da9e7ae49d2",
+    "return-next-spread-comparison.png": "98fca0ab21410ca342cac8391ba4598ed7fcc2a1616b0d084521ca30d8e70736",
+    "return-same-spread-comparison.png": "0864aa1f0bb190677edc1dac4d7056169da075101ab27373e2583359569a0251"
+  }
+}
