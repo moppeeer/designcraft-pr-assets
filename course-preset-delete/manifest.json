@@ -1,0 +1,14 @@
+{
+  "before": "5aeb4dd743067e5a6d797d0f613448a06d141a09",
+  "after": "71869ac3c7500dfcdaa0d1c064d2efb3f79dd099",
+  "method": "Exact branch binaries; same synthetic document, two runtime user presets, Preview and real pointer click. No factory preset added. Existing document JSON identical apart from creation time.",
+  "images": {
+    "after-deleted.png": "405a9a3e86d6d417d3720c4851f11320ea56adcff585ac5e79527e95ed2bbdb4",
+    "after-selected.png": "0bbd40d964e2da8066835e8123f8f93647456a0ecc3f0fbe0a09505f4ffc2594",
+    "before-deleted.png": "492eae6e423ba849dae502aa6147cf4d4a97eceff5841b2031db0a44a3a91a76",
+    "before-selected.png": "492eae6e423ba849dae502aa6147cf4d4a97eceff5841b2031db0a44a3a91a76",
+    "card-detail-comparison.png": "b0f73402eddc7702e866b999a0c9475ff302b7ca301623c50d1c6454a2326a27",
+    "deleted-comparison.png": "e407c88e0e6f9cad95f20b4429b297fd7390fd680ab3998dff3a91509ed9f622",
+    "selected-comparison.png": "da028a96cfeefe56b2089a58aba66184eb07daf17176471b3d471065e16e420a"
+  }
+}
